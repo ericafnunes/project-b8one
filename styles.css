@@ -1193,7 +1193,7 @@ footer {
   position: absolute;
   width: 1028px;
   height: 32px;
-  left: 390px;
+  left: 400px;
   top: 550px;
   font-family: Inter;
   font-style: normal;
@@ -1209,7 +1209,7 @@ footer {
   text-align: center;
   font-family: Inter;
   font-style: normal;
-  margin-left: 700px;
+  margin-left: 720px;
 }
 .rodape_copy_vtex {
   position: absolute;
@@ -1273,4 +1273,19 @@ footer {
 #color_dark-gray {
   all: unset;
   box-sizing: border-box;
+}
+
+@media (max-width: 575.98px) {
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+@media (min-width: 1200px) {
 }
